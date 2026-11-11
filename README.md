@@ -449,7 +449,7 @@ For information about the business, visit the official website.
 
 ### Built by Vernan Shikir
 
-**Founder & Lead Software Engineer — Bunora Haus**
+**Lead Software Engineer — Bunora Haus**
 
 *Architecting the systems. Engineering the platform. Building the business.*
 
