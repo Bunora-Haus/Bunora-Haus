@@ -427,7 +427,7 @@ It is not a distribution of the production commerce application.
 
 ### Vernan Shikir
 
-**Founder · Lead Software Engineer · Systems Architect**
+**Lead Software Engineer · Systems Architect**
 
 [GitHub Profile](https://github.com/vernan06)
 
